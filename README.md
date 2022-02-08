@@ -23,7 +23,7 @@ cargo build
 cargo run
 ```
 
-# enjoy the two registered command, "test" and "exit" !
+# Enjoy the two registered command, "test" and "exit" !
 
 ![image](https://user-images.githubusercontent.com/30495614/152697676-68a9fa98-f48c-41d3-a486-a041001ecca8.png)
 
