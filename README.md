@@ -1,5 +1,5 @@
 # system-app
-A Rust test application dependent on cli-lib
+A Rust executable crate dependent on cli-lib, demonstrating a simple CLI
 
 ## install/update rustc and cargo:
 ```
